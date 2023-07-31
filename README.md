@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Valentina Seger Cambruzzi, a Brazilian teenager
+- 👀 I’m interested in data science and big data
+- 🌱 I’m currently learning front-end, and will learn back-end soon
+- 📫 How to reach me: valentina.seger.cambruzzi@gmail.com
